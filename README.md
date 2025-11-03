@@ -7,8 +7,8 @@
 
 ### 🧠 Sobre mim
 - 🎓 Graduando em Ciência da Computação  
-- 🚀 Aprendendo **Spring Boot**, **JPA**, **Hibernate** e **Testes automatizados**  
-- ⚙️ Interesses: **Arquitetura de Software**, **Banco de Dados** e **Microserviços**
+- 🚀 Estudando **Spring Boot**, **JPA** e **boas práticas de desenvolvimento**  
+- ⚙️ Interesses: **APIs REST**, **Banco de Dados** e **Integração de sistemas**
 
 ---
 
