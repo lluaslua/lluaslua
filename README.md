@@ -6,9 +6,9 @@
 ---
 
 ### 🧠 Sobre mim
-- 🎓 Graduando em Ciência da Computação  
-- 🚀 Estudando **Spring Boot**, **JPA** e **boas práticas de desenvolvimento**  
-- ⚙️ Interesses: **APIs REST**, **Banco de Dados** e **Integração de sistemas**
+-  Graduando em Ciência da Computação  
+-  Estudando **Spring Boot**, **JPA** e **boas práticas de desenvolvimento**  
+-  Interesses: **APIs REST**, **Banco de Dados** e **Integração de sistemas**
 
 ---
 
