@@ -1,11 +1,11 @@
 <h1 align="center">👋 Olá, eu sou o Luan Gouveia</h1>
 
-🎯 **Desenvolvedor Backend em formação**  
+**Desenvolvedor Backend em formação**  
 💻 Foco em **Java | Spring Boot | APIs REST**
 
 ---
 
-### 🧠 Sobre mim
+### Sobre mim
 -  Graduando em Ciência da Computação  
 -  Estudando **Spring Boot**, **JPA** e **boas práticas de desenvolvimento**  
 -  Interesses: **APIs REST**, **Banco de Dados** e **Integração de sistemas**
